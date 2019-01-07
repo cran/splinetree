@@ -1,6 +1,7 @@
-8535b29e36bed217da4c0b952fed31d1 *DESCRIPTION
+6c3c71e74c13d12af6b6fed1f5be3e11 *DESCRIPTION
 d2fd0f6af9e3e0e6a9dd62a1cdb47c30 *LICENSE
 4bc7dd01c50b4cf14435f4b4fd040770 *NAMESPACE
+3bdf8e0386420c24c9b642524b70bdc0 *NEWS.md
 d31ce1e7991f1f06813dded872c7efaf *R/custom_rpart_fns.R
 d1ed119a5c95594fc30d6a92b5a60763 *R/custom_split_forest.R
 7a71aeecf3b5beecc3df0b8c0df9c8e6 *R/data.R
@@ -22,11 +23,11 @@ c17c644add4165556f104bb0c6f0a72a *build/vignette.rds
 f2500023e9fb3822f98ffe2b00ca73bc *data/importance.RData
 14ea91b0400930b001d173f0125d022c *data/nlsySample.rda
 090b77269715d4fbe8b80f8b7211dcdd *data/tree.rda
-c12739dc4520a449b5bf529b2d0d37db *inst/doc/Forest-Intro.html
+e8fccceae18533b2e0d7c328ee169dc0 *inst/doc/Forest-Intro.html
 084dd46220c1e684923c63048d82b8e5 *inst/doc/Forest-Intro.html.asis
-976cf33286a28fa41920ba63b5f70fcc *inst/doc/Long-Intro.html
+2d9ada17642f5217be89e0954f15bd64 *inst/doc/Long-Intro.html
 424bda313043d7fe8eae5559a4b9dd4a *inst/doc/Long-Intro.html.asis
-6b588bff06af360d7f72eb6b7ed1d48d *inst/doc/Tree-Intro.html
+84e0c0eb6dad0b5823261f3b7fc71ccc *inst/doc/Tree-Intro.html
 2754d7129e43b3186354e1a121a8eefd *inst/doc/Tree-Intro.html.asis
 11eb59ea9e781cbd8b71efb65a4442f5 *man/avSize.Rd
 50e9385f2984387ca8855ef99b59f8e5 *man/flatten_predictors.Rd
@@ -48,7 +49,7 @@ ec65da53c806e42d74fcf3429831a8fd *man/predictYForest.Rd
 1bc0f8f7b8ab4947d6bc0019e89f06f1 *man/projectedR2Forest.Rd
 ec619d59ff1ebe56518c9bd1f6e8f088 *man/pruneForest.Rd
 dec3415f7838c463b275f438a7b3faa2 *man/rpartco.Rd
-336aa45f6981fc126183a56815800941 *man/spaghettiPlot.Rd
+487101eb56c7b76b54a9770a8b5fb55d *man/spaghettiPlot.Rd
 3527e2a64d995afe557cd4565e1e83c1 *man/splineForest.Rd
 4f225798ef29d3a9c097881dc56e5f26 *man/splineTree.Rd
 ab33ef338d4314c5799b49382efae773 *man/splineTreePlot.Rd
@@ -73,7 +74,7 @@ b6ea692677df63d4f19b5cb35fa37286 *man/yR2.Rd
 cbd0cf5aeb2043b538e073222c059b3c *tests/testthat/test_forest.R
 084dd46220c1e684923c63048d82b8e5 *vignettes/Forest-Intro.html.asis
 9d0e1d1e15be6febf30a0879c6c0ce9f *vignettes/Forest-intro.Rmd
-9407e152e685a250c7ecc9b7648bced7 *vignettes/Long-Intro.Rmd
+35feeaf666bf78a711e5e1b106efa020 *vignettes/Long-Intro.Rmd
 424bda313043d7fe8eae5559a4b9dd4a *vignettes/Long-Intro.html.asis
 ca813e2450d7f1e00ace77573c8a87ec *vignettes/Tree-Intro.Rmd
 2754d7129e43b3186354e1a121a8eefd *vignettes/Tree-Intro.html.asis
